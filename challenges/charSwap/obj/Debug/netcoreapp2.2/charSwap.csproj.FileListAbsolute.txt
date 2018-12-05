@@ -1,0 +1,11 @@
+/Users/maddystar/maddy_workspace/CSharpChallenges/challenges/charSwap/obj/Debug/netcoreapp2.2/charSwap.csprojAssemblyReference.cache
+/Users/maddystar/maddy_workspace/CSharpChallenges/challenges/charSwap/obj/Debug/netcoreapp2.2/charSwap.csproj.CoreCompileInputs.cache
+/Users/maddystar/maddy_workspace/CSharpChallenges/challenges/charSwap/obj/Debug/netcoreapp2.2/charSwap.AssemblyInfoInputs.cache
+/Users/maddystar/maddy_workspace/CSharpChallenges/challenges/charSwap/obj/Debug/netcoreapp2.2/charSwap.AssemblyInfo.cs
+/Users/maddystar/maddy_workspace/CSharpChallenges/challenges/charSwap/bin/Debug/netcoreapp2.2/charSwap.deps.json
+/Users/maddystar/maddy_workspace/CSharpChallenges/challenges/charSwap/bin/Debug/netcoreapp2.2/charSwap.runtimeconfig.json
+/Users/maddystar/maddy_workspace/CSharpChallenges/challenges/charSwap/bin/Debug/netcoreapp2.2/charSwap.runtimeconfig.dev.json
+/Users/maddystar/maddy_workspace/CSharpChallenges/challenges/charSwap/bin/Debug/netcoreapp2.2/charSwap.dll
+/Users/maddystar/maddy_workspace/CSharpChallenges/challenges/charSwap/bin/Debug/netcoreapp2.2/charSwap.pdb
+/Users/maddystar/maddy_workspace/CSharpChallenges/challenges/charSwap/obj/Debug/netcoreapp2.2/charSwap.dll
+/Users/maddystar/maddy_workspace/CSharpChallenges/challenges/charSwap/obj/Debug/netcoreapp2.2/charSwap.pdb

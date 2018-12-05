@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maddystar/maddy_workspace/C#/challenges/charSwap/charSwap.csproj",
+      "projectUniqueName": "/Users/maddystar/maddy_workspace/CSharpChallenges/challenges/charSwap/charSwap.csproj",
       "projectName": "charSwap",
-      "projectPath": "/Users/maddystar/maddy_workspace/C#/challenges/charSwap/charSwap.csproj",
+      "projectPath": "/Users/maddystar/maddy_workspace/CSharpChallenges/challenges/charSwap/charSwap.csproj",
       "packagesPath": "/Users/maddystar/.nuget/packages/",
-      "outputPath": "/Users/maddystar/maddy_workspace/C#/challenges/charSwap/obj/",
+      "outputPath": "/Users/maddystar/maddy_workspace/CSharpChallenges/challenges/charSwap/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
