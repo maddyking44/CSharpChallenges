@@ -1,0 +1,11 @@
+/Users/maddystar/maddy_workspace/C#/challenges/swaps/obj/Debug/netcoreapp2.2/swaps.csprojAssemblyReference.cache
+/Users/maddystar/maddy_workspace/C#/challenges/swaps/obj/Debug/netcoreapp2.2/swaps.csproj.CoreCompileInputs.cache
+/Users/maddystar/maddy_workspace/C#/challenges/swaps/obj/Debug/netcoreapp2.2/swaps.AssemblyInfoInputs.cache
+/Users/maddystar/maddy_workspace/C#/challenges/swaps/obj/Debug/netcoreapp2.2/swaps.AssemblyInfo.cs
+/Users/maddystar/maddy_workspace/C#/challenges/swaps/bin/Debug/netcoreapp2.2/swaps.deps.json
+/Users/maddystar/maddy_workspace/C#/challenges/swaps/bin/Debug/netcoreapp2.2/swaps.runtimeconfig.json
+/Users/maddystar/maddy_workspace/C#/challenges/swaps/bin/Debug/netcoreapp2.2/swaps.runtimeconfig.dev.json
+/Users/maddystar/maddy_workspace/C#/challenges/swaps/bin/Debug/netcoreapp2.2/swaps.dll
+/Users/maddystar/maddy_workspace/C#/challenges/swaps/bin/Debug/netcoreapp2.2/swaps.pdb
+/Users/maddystar/maddy_workspace/C#/challenges/swaps/obj/Debug/netcoreapp2.2/swaps.dll
+/Users/maddystar/maddy_workspace/C#/challenges/swaps/obj/Debug/netcoreapp2.2/swaps.pdb

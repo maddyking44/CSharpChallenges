@@ -1,0 +1,11 @@
+/Users/maddystar/maddy_workspace/C#/challenges/multiplyThree/obj/Debug/netcoreapp2.2/multiplyThree.csprojAssemblyReference.cache
+/Users/maddystar/maddy_workspace/C#/challenges/multiplyThree/obj/Debug/netcoreapp2.2/multiplyThree.csproj.CoreCompileInputs.cache
+/Users/maddystar/maddy_workspace/C#/challenges/multiplyThree/obj/Debug/netcoreapp2.2/multiplyThree.AssemblyInfoInputs.cache
+/Users/maddystar/maddy_workspace/C#/challenges/multiplyThree/obj/Debug/netcoreapp2.2/multiplyThree.AssemblyInfo.cs
+/Users/maddystar/maddy_workspace/C#/challenges/multiplyThree/bin/Debug/netcoreapp2.2/multiplyThree.deps.json
+/Users/maddystar/maddy_workspace/C#/challenges/multiplyThree/bin/Debug/netcoreapp2.2/multiplyThree.runtimeconfig.json
+/Users/maddystar/maddy_workspace/C#/challenges/multiplyThree/bin/Debug/netcoreapp2.2/multiplyThree.runtimeconfig.dev.json
+/Users/maddystar/maddy_workspace/C#/challenges/multiplyThree/bin/Debug/netcoreapp2.2/multiplyThree.dll
+/Users/maddystar/maddy_workspace/C#/challenges/multiplyThree/bin/Debug/netcoreapp2.2/multiplyThree.pdb
+/Users/maddystar/maddy_workspace/C#/challenges/multiplyThree/obj/Debug/netcoreapp2.2/multiplyThree.dll
+/Users/maddystar/maddy_workspace/C#/challenges/multiplyThree/obj/Debug/netcoreapp2.2/multiplyThree.pdb
